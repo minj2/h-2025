@@ -1,0 +1,29 @@
+{
+  "name": "h-2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "chromatic": "chromatic --project-token=chpt_ce9a3587179a51b",
+    "build-storybook": "storybook build",
+    "storybook": "storybook dev -p 6006"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@chromatic-com/storybook": "^3.2.6",
+    "@storybook/addon-essentials": "^8.6.9",
+    "@storybook/addon-onboarding": "^8.6.9",
+    "@storybook/blocks": "^8.6.9",
+    "@storybook/test": "^8.6.9",
+    "chromatic": "^11.27.0",
+    "prop-types": "^15.8.1",
+    "storybook": "^8.6.9"
+  },
+  "dependencies": {
+    "@storybook/react": "^8.6.9",
+    "@storybook/react-vite": "^8.6.9"
+  }
+}

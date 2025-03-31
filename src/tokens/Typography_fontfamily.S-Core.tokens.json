@@ -1,0 +1,14 @@
+{
+  "font-family": {
+    "$type": "string",
+    "$value": "S-Core Dream"
+  },
+  "font-family_body": {
+    "$type": "string",
+    "$value": "S-Core Dream"
+  },
+  "Label": {
+    "$type": "boolean",
+    "$value": true
+  }
+}

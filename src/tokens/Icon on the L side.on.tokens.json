@@ -1,0 +1,42 @@
+{
+  "icon_L_size": {
+    "$type": "dimension",
+    "$value": "24px"
+  },
+  "icon_L_width": {
+    "$type": "dimension",
+    "$value": "28px"
+  },
+  "icon_L_size_S": {
+    "$type": "dimension",
+    "$value": "16px"
+  },
+  "icon_L_size_S_width": {
+    "$type": "dimension",
+    "$value": "20px"
+  },
+  "icon_L-on-padding-right": {
+    "$type": "dimension",
+    "$value": "4px"
+  },
+  "icon_Ls-on-padding-right": {
+    "$type": "dimension",
+    "$value": "4px"
+  },
+  "icon_L-on-spacing": {
+    "$type": "dimension",
+    "$value": "-4px"
+  },
+  "icon_L": {
+    "$type": "boolean",
+    "$value": true
+  },
+  "txt-styleBtn_L_off": {
+    "$type": "boolean",
+    "$value": true
+  },
+  "txt-styleBtn_L_on": {
+    "$type": "boolean",
+    "$value": false
+  }
+}

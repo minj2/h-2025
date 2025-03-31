@@ -1,0 +1,90 @@
+{
+  "btn-color": {
+    "btn-text": {
+      "$type": "color",
+      "$value": "{btn-brand-mode.btn-text}"
+    },
+    "btn-enabled": {
+      "$type": "color",
+      "$value": "{btn-brand-mode.btn-enabled}"
+    },
+    "btn-hover": {
+      "$type": "color",
+      "$value": "{btn-brand-mode.btn-hover}"
+    },
+    "btn-focused": {
+      "$type": "color",
+      "$value": "{btn-brand-mode.btn-focused}"
+    },
+    "btn-tonal-text": {
+      "$type": "color",
+      "$value": "{btn-brand-mode.btn-tonal-text}"
+    },
+    "btn-tonal-enabled": {
+      "$type": "color",
+      "$value": "{btn-brand-mode.btn-tonal-enabled}"
+    },
+    "btn-tonal-hover": {
+      "$type": "color",
+      "$value": "{btn-brand-mode.btn-tonal-hover}"
+    },
+    "btn-tonal-pressed": {
+      "$type": "color",
+      "$value": "{btn-brand-mode.btn-tonal-pressed}"
+    },
+    "btn-tonal-active": {
+      "$type": "color",
+      "$value": "{btn-brand-mode.btn-tonal-active}"
+    },
+    "btn-text-link": {
+      "$type": "color",
+      "$value": "{btn-brand-mode.btn-text-link}"
+    },
+    "btn-bordered-border": {
+      "$type": "color",
+      "$value": "{btn-brand-mode.btn-bordered-border}"
+    },
+    "btn-bordered-bg": {
+      "$type": "color",
+      "$value": "{btn-brand-mode.btn-bordered-bg}"
+    },
+    "btn-bordered-bg_hover": {
+      "$type": "color",
+      "$value": "{btn-brand-mode.btn-bordered-bg_hover}"
+    },
+    "btn-bordered-border-pressed": {
+      "$type": "color",
+      "$value": "{btn-brand-mode.btn-bordered-border-pressed}"
+    },
+    "btn-bordered-bg_pressed": {
+      "$type": "color",
+      "$value": "{btn-brand-mode.btn-border-bg_pressed}"
+    },
+    "btn-bordered-border-avtive": {
+      "$type": "color",
+      "$value": "{btn-brand-mode.btn-bordered-border-avtive}"
+    },
+    "btn-bordered-bg_active": {
+      "$type": "color",
+      "$value": "{btn-brand-mode.btn-bordered-bg_active}"
+    },
+    "switch": {
+      "switch": {
+        "$type": "color",
+        "$value": "{indigo.indigo-500}"
+      }
+    }
+  },
+  "Label": {
+    "$type": "string",
+    "$value": "Label"
+  },
+  "icon_24x24": {
+    "$type": "color",
+    "$value": "{Alpha.wAlpha0}"
+  },
+  "img": {
+    "$type": "boolean",
+    "$value": false
+  }
+}

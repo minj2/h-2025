@@ -1,0 +1,72 @@
+{
+  "24 side + 8col_390u": {
+    "$type": "grid",
+    "$value": [
+      {
+        "pattern": "columns",
+        "visible": true,
+        "alignment": "stretch",
+        "color": "#ff00001a",
+        "gutterSize": "{guide_gutter}",
+        "count": 8,
+        "offset": "24px"
+      }
+    ]
+  },
+  "4% side + 8col_1059u": {
+    "$type": "grid",
+    "$value": [
+      {
+        "pattern": "columns",
+        "visible": true,
+        "alignment": "stretch",
+        "color": "#ff00001a",
+        "gutterSize": "{guide_gutter}",
+        "count": 8,
+        "offset": "{guide_padding 4%}"
+      }
+    ]
+  },
+  "8% side+ 8col_1059u": {
+    "$type": "grid",
+    "$value": [
+      {
+        "pattern": "columns",
+        "visible": true,
+        "alignment": "stretch",
+        "color": "#ff00001a",
+        "gutterSize": "{guide_gutter}",
+        "count": 8,
+        "offset": "{guide_padding 8%}"
+      }
+    ]
+  },
+  "8% side+ 12col_1060o": {
+    "$type": "grid",
+    "$value": [
+      {
+        "pattern": "columns",
+        "visible": true,
+        "alignment": "stretch",
+        "color": "#ff00001a",
+        "gutterSize": "{guide_gutter}",
+        "count": 12,
+        "offset": "{guide_padding 8%}"
+      }
+    ]
+  },
+  "sheet_24side + 8col_390u": {
+    "$type": "grid",
+    "$value": [
+      {
+        "pattern": "columns",
+        "visible": true,
+        "alignment": "stretch",
+        "color": "#ff00001a",
+        "gutterSize": "{guide_gutter}",
+        "count": 8,
+        "offset": "24px"
+      }
+    ]
+  }
+}

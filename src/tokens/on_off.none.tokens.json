@@ -1,0 +1,14 @@
+{
+  "content_vspacing_none": {
+    "$type": "dimension",
+    "$value": "0px"
+  },
+  "content_hspacing_none": {
+    "$type": "dimension",
+    "$value": "0px"
+  },
+  "content_vspacing_sm_none": {
+    "$type": "dimension",
+    "$value": "0px"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "icon_R_size": {
+    "$type": "dimension",
+    "$value": "0px"
+  },
+  "icon_R_size_width": {
+    "$type": "dimension",
+    "$value": "0px"
+  },
+  "icon_R_size_S": {
+    "$type": "dimension",
+    "$value": "0px"
+  },
+  "icon_R_size_S_width": {
+    "$type": "dimension",
+    "$value": "0px"
+  },
+  "icon_R-on-spacing": {
+    "$type": "dimension",
+    "$value": "0px"
+  },
+  "icon_Rs-on-spacing": {
+    "$type": "dimension",
+    "$value": "0px"
+  },
+  "icon_R-on-padding-right": {
+    "$type": "dimension",
+    "$value": "0px"
+  },
+  "icon_R": {
+    "$type": "boolean",
+    "$value": false
+  },
+  "icon_R_no": {
+    "$type": "boolean",
+    "$value": false
+  },
+  "txt-styleBtn_R_off": {
+    "$type": "boolean",
+    "$value": false
+  },
+  "txt-styleBtn_R_on": {
+    "$type": "boolean",
+    "$value": true
+  }
+}

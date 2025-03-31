@@ -1,0 +1,30 @@
+{
+  "radius0_4_8_600": {
+    "$type": "dimension",
+    "$value": "4px"
+  },
+  "radius4*2": {
+    "$type": "dimension",
+    "$value": "{8}"
+  },
+  "radius_sheet_long": {
+    "$type": "dimension",
+    "$value": "16px"
+  },
+  "radius_sheet_short": {
+    "$type": "dimension",
+    "$value": "12px"
+  },
+  "radius4*2-2_inner": {
+    "$type": "dimension",
+    "$value": "6px"
+  },
+  "radius4*2-4_inner": {
+    "$type": "dimension",
+    "$value": "4px"
+  },
+  "length_0-100-200-300": {
+    "$type": "dimension",
+    "$value": "100px"
+  }
+}

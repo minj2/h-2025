@@ -1,0 +1,86 @@
+{
+  "browser_width": {
+    "$type": "dimension",
+    "$value": "{Browser_width.xl_1441_over}"
+  },
+  "guide_padding_8%": {
+    "$type": "dimension",
+    "$value": "130px"
+  },
+  "guide_padding_4%": {
+    "$type": "dimension",
+    "$value": "65px"
+  },
+  "guide_padding_24+8": {
+    "$type": "dimension",
+    "$value": "48px"
+  },
+  "guide_gutter": {
+    "$type": "dimension",
+    "$value": "24px"
+  },
+  "guide_8%_unit": {
+    "$type": "dimension",
+    "$value": "94px"
+  },
+  "guide_4%_unit": {
+    "$type": "dimension",
+    "$value": "105px"
+  },
+  "card_padding": {
+    "$type": "dimension",
+    "$value": "{spacing-md_24x2}"
+  },
+  "card_sheet_padding": {
+    "$type": "dimension",
+    "$value": "{spacing-lg_32x2}"
+  },
+  "show_only_on_1060o": {
+    "$type": "boolean",
+    "$value": true
+  },
+  "content_hspacing": {
+    "$type": "dimension",
+    "$value": "{spacing-lg_32x2}"
+  },
+  "section_vspacing": {
+    "$type": "dimension",
+    "$value": "{spacing-2xl_64x2}"
+  },
+  "section_vspacing_sm": {
+    "$type": "dimension",
+    "$value": "{spacing-xl_48x2}"
+  },
+  "content_vspacing": {
+    "$type": "dimension",
+    "$value": "{spacing-lg_32x2}"
+  },
+  "content_vspacing_sm": {
+    "$type": "dimension",
+    "$value": "{spacing-lg_32x2}"
+  },
+  "list_vspacing": {
+    "$type": "dimension",
+    "$value": "{spacing-sm_16x2}"
+  },
+  "content_sm_max_width": {
+    "$type": "dimension",
+    "$value": "280px"
+  },
+  "content_md_max_width": {
+    "$type": "dimension",
+    "$value": "400px"
+  },
+  "content_2cols_max_width": {
+    "$type": "dimension",
+    "$value": "560px"
+  },
+  "content_3cols_min_width": {
+    "$type": "dimension",
+    "$value": "320px"
+  },
+  "content_2cols_padding": {
+    "$type": "dimension",
+    "$value": "64px"
+  }
+}

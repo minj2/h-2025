@@ -1,0 +1,253 @@
+{
+  "name": "Design Tokens",
+  "collections": {
+    "Foundation_color": {
+      "modes": {
+        "default": [
+          "Foundation_color.default.tokens.json"
+        ]
+      }
+    },
+    "semantic_colors": {
+      "modes": {
+        "light mode": [
+          "semantic_colors.light mode.tokens.json"
+        ],
+        "dark mode": [
+          "semantic_colors.dark mode.tokens.json"
+        ]
+      }
+    },
+    "Opacity": {
+      "modes": {
+        "Mode 1": [
+          "Opacity.Mode 1.tokens.json"
+        ]
+      }
+    },
+    "Foundation_number": {
+      "modes": {
+        "Mode 1": [
+          "Foundation_number.Mode 1.tokens.json"
+        ]
+      }
+    },
+    "Spacing": {
+      "modes": {
+        "default": [
+          "Spacing.default.tokens.json"
+        ],
+        "comfort": [
+          "Spacing.comfort.tokens.json"
+        ],
+        "compact": [
+          "Spacing.compact.tokens.json"
+        ]
+      }
+    },
+    "Radius": {
+      "modes": {
+        "min": [
+          "Radius.min.tokens.json"
+        ],
+        "md": [
+          "Radius.md.tokens.json"
+        ],
+        "lg": [
+          "Radius.lg.tokens.json"
+        ],
+        "max": [
+          "Radius.max.tokens.json"
+        ]
+      }
+    },
+    "Breakpoints": {
+      "modes": {
+        "734u_390": [
+          "Breakpoints.734u_390.tokens.json"
+        ],
+        "735-1059_834": [
+          "Breakpoints.735-1059_834.tokens.json"
+        ],
+        "1060-1440_1366": [
+          "Breakpoints.1060-1440_1366.tokens.json"
+        ],
+        "1440o_1630": [
+          "Breakpoints.1440o_1630.tokens.json"
+        ]
+      }
+    },
+    "Icon Sizes": {
+      "modes": {
+        "default": [
+          "Icon Sizes.default.tokens.json"
+        ],
+        "sm": [
+          "Icon Sizes.sm.tokens.json"
+        ],
+        "lg": [
+          "Icon Sizes.lg.tokens.json"
+        ],
+        "xl": [
+          "Icon Sizes.xl.tokens.json"
+        ]
+      }
+    },
+    "Icon on the R side": {
+      "modes": {
+        "off": [
+          "Icon on the R side.off.tokens.json"
+        ],
+        "on": [
+          "Icon on the R side.on.tokens.json"
+        ]
+      }
+    },
+    "Icon on the L side": {
+      "modes": {
+        "off": [
+          "Icon on the L side.off.tokens.json"
+        ],
+        "on": [
+          "Icon on the L side.on.tokens.json"
+        ]
+      }
+    },
+    "Typography_l-spacing": {
+      "modes": {
+        "default": [
+          "Typography_l-spacing.default.tokens.json"
+        ],
+        "comfort": [
+          "Typography_l-spacing.comfort.tokens.json"
+        ],
+        "wide": [
+          "Typography_l-spacing.wide.tokens.json"
+        ],
+        "compact": [
+          "Typography_l-spacing.compact.tokens.json"
+        ]
+      }
+    },
+    "Typography_responsive": {
+      "modes": {
+        "734u_390": [
+          "Typography_responsive.734u_390.tokens.json"
+        ],
+        "735-1059_834": [
+          "Typography_responsive.735-1059_834.tokens.json"
+        ],
+        "1060-1440_1366": [
+          "Typography_responsive.1060-1440_1366.tokens.json"
+        ],
+        "1441o_1630": [
+          "Typography_responsive.1441o_1630.tokens.json"
+        ]
+      }
+    },
+    "Typography_fontfamily": {
+      "modes": {
+        "Pretendard": [
+          "Typography_fontfamily.Pretendard.tokens.json"
+        ],
+        "Noto Sans": [
+          "Typography_fontfamily.Noto Sans.tokens.json"
+        ],
+        "Noto Serif": [
+          "Typography_fontfamily.Noto Serif.tokens.json"
+        ],
+        "S-Core": [
+          "Typography_fontfamily.S-Core.tokens.json"
+        ]
+      }
+    },
+    "Btn_color": {
+      "modes": {
+        "brand": [
+          "Btn_color.brand.tokens.json"
+        ],
+        "white": [
+          "Btn_color.white.tokens.json"
+        ],
+        "bk": [
+          "Btn_color.bk.tokens.json"
+        ],
+        "alpha": [
+          "Btn_color.alpha.tokens.json"
+        ]
+      }
+    },
+    "Stroke": {
+      "modes": {
+        "min": [
+          "Stroke.min.tokens.json"
+        ],
+        "thin": [
+          "Stroke.thin.tokens.json"
+        ],
+        "thick": [
+          "Stroke.thick.tokens.json"
+        ],
+        "max": [
+          "Stroke.max.tokens.json"
+        ]
+      }
+    },
+    "on_off": {
+      "modes": {
+        "default": [
+          "on_off.default.tokens.json"
+        ],
+        "none": [
+          "on_off.none.tokens.json"
+        ]
+      }
+    },
+    "material-theme": {
+      "modes": {
+        "Light": [
+          "material-theme.Light.tokens.json"
+        ],
+        "Light High Contrast": [
+          "material-theme.Light High Contrast.tokens.json"
+        ],
+        "Light Medium Contrast": [
+          "material-theme.Light Medium Contrast.tokens.json"
+        ],
+        "Dark": [
+          "material-theme.Dark.tokens.json"
+        ]
+      }
+    },
+    "hakerton_material": {
+      "modes": {
+        "Light": [
+          "hakerton_material.Light.tokens.json"
+        ],
+        "Light High Contrast": [
+          "hakerton_material.Light High Contrast.tokens.json"
+        ],
+        "Light Medium Contrast": [
+          "hakerton_material.Light Medium Contrast.tokens.json"
+        ],
+        "Dark": [
+          "hakerton_material.Dark.tokens.json"
+        ]
+      }
+    }
+  },
+  "styles": {
+    "text": [
+      "text.styles.tokens.json"
+    ],
+    "effect": [
+      "effect.styles.tokens.json"
+    ],
+    "color": [
+      "color.styles.tokens.json"
+    ],
+    "grid": [
+      "grid.styles.tokens.json"
+    ]
+  }
+}

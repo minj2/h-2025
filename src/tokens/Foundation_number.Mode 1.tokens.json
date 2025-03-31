@@ -1,0 +1,118 @@
+{
+  "0": {
+    "$type": "dimension",
+    "$value": "0px"
+  },
+  "4": {
+    "$type": "dimension",
+    "$value": "4px"
+  },
+  "8": {
+    "$type": "dimension",
+    "$value": "8px"
+  },
+  "12": {
+    "$type": "dimension",
+    "$value": "12px"
+  },
+  "16": {
+    "$type": "dimension",
+    "$value": "16px"
+  },
+  "24": {
+    "$type": "dimension",
+    "$value": "24px"
+  },
+  "32": {
+    "$type": "dimension",
+    "$value": "32px"
+  },
+  "40": {
+    "$type": "dimension",
+    "$value": "40px"
+  },
+  "48": {
+    "$type": "dimension",
+    "$value": "48px"
+  },
+  "64": {
+    "$type": "dimension",
+    "$value": "64px"
+  },
+  "96": {
+    "$type": "dimension",
+    "$value": "96px"
+  },
+  "128": {
+    "$type": "dimension",
+    "$value": "128px"
+  },
+  "160": {
+    "$type": "dimension",
+    "$value": "160px"
+  },
+  "256": {
+    "$type": "dimension",
+    "$value": "256px"
+  },
+  "Font_weight": {
+    "light": {
+      "$type": "dimension",
+      "$value": "300"
+    },
+    "regular": {
+      "$type": "dimension",
+      "$value": "400"
+    },
+    "midium": {
+      "$type": "dimension",
+      "$value": "500"
+    },
+    "semiBold": {
+      "$type": "dimension",
+      "$value": "600"
+    },
+    "bold": {
+      "$type": "dimension",
+      "$value": "700"
+    },
+    "extraBold": {
+      "$type": "dimension",
+      "$value": "800"
+    }
+  },
+  "Browser_width": {
+    "sm_max-width:_734": {
+      "$type": "dimension",
+      "$value": "390px"
+    },
+    "md_735-_max-width:_1059": {
+      "$type": "dimension",
+      "$value": "834px"
+    },
+    "lg_1060-_max-width:_1440": {
+      "$type": "dimension",
+      "$value": "1366px"
+    },
+    "xl_1441_over": {
+      "$type": "dimension",
+      "$value": "1630px"
+    },
+    "sm": {
+      "$type": "string",
+      "$value": "sm// 734 under_work space 390_side margin 24px or 4%"
+    },
+    "md": {
+      "$type": "string",
+      "$value": "md// 735 - 1059_work space 834_84% contents"
+    },
+    "lg": {
+      "$type": "string",
+      "$value": "lg// 1060 - 1440_work space 1366_84% contents"
+    },
+    "xl": {
+      "$type": "string",
+      "$value": "xl// 1441 over_work space 1630_84% contents"
+    }
+  }
+}

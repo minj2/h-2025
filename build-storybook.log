@@ -1,20 +1,30 @@
 
 > h-2025@1.0.0 build-storybook
-> storybook build --output-dir=C:\Users\MINJEO~1\AppData\Local\Temp\chromatic--72932-HibDyZ3oUp2F
+> storybook build --output-dir=C:\Users\MINJEO~1\AppData\Local\Temp\chromatic--24824-4mzWyne3eS6W
 
 [1m@storybook/core v8.6.9
 [22m
-info => Cleaning outputDir: [36m..\..\MINJEO~1\AppData\Local\Temp\chromatic--72932-HibDyZ3oUp2F[39m
-[38;2;241;97;97mSB_CORE-SERVER_0006 (MainFileMissingError): No configuration files have been found in your configDir: [33m.\.storybook[39m.
-Storybook needs a "main.js" file, please add it.
-
-You can pass a --config-dir flag to tell Storybook, where your main.js file is located at.
-
-More info: https://storybook.js.org/docs/configure
-[39m
-    at validateConfigurationFiles (.\node_modules\@storybook\core\dist\common\index.cjs:16327:11)
-    at async loadMainConfig (.\node_modules\@storybook\core\dist\common\index.cjs:17535:3)
-    at async buildStaticStandalone (.\node_modules\@storybook\core\dist\core-server\index.cjs:35417:11)
-    at async withTelemetry (.\node_modules\@storybook\core\dist\core-server\index.cjs:35778:12)
-    at async build (.\node_modules\@storybook\core\dist\cli\bin\index.cjs:2529:3)
-    at async n.<anonymous> (.\node_modules\@storybook\core\dist\cli\bin\index.cjs:2638:7)
+info => Cleaning outputDir: [36m..\..\MINJEO~1\AppData\Local\Temp\chromatic--24824-4mzWyne3eS6W[39m
+info => Loading presets
+info => Building manager..
+info => Manager built ([38;2;181;126;229m1.31 s[39m)
+info => Building preview..
+WARN No story files found for the specified pattern: [34msrc\**\*.stories.@(js|jsx|ts|tsx)[39m
+info Addon-docs: using MDX3
+info => Using implicit CSS loaders
+info => Using default Webpack5 setup
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   735.78c9ff77.iframe.bundle.js (362 KiB)
+WARN   253.82dd9e86.iframe.bundle.js (1.41 MiB)
+WARN   878.4b704fcd.iframe.bundle.js (974 KiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (1.43 MiB)
+WARN       runtime~main.e399d064.iframe.bundle.js
+WARN       253.82dd9e86.iframe.bundle.js
+WARN       main.b606d635.iframe.bundle.js
+WARN 
+info => Preview built ([38;2;181;126;229m31 s[39m)
+info => Output directory: C:\Users\MINJEO~1\AppData\Local\Temp\chromatic--24824-4mzWyne3eS6W

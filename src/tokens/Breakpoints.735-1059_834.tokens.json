@@ -1,0 +1,86 @@
+{
+  "browser_width": {
+    "$type": "dimension",
+    "$value": "{Browser_width.md_735-_max-width:_1059}"
+  },
+  "guide_padding_8%": {
+    "$type": "dimension",
+    "$value": "68px"
+  },
+  "guide_padding_4%": {
+    "$type": "dimension",
+    "$value": "34px"
+  },
+  "guide_padding_24+8": {
+    "$type": "dimension",
+    "$value": "24px"
+  },
+  "guide_gutter": {
+    "$type": "dimension",
+    "$value": "20px"
+  },
+  "guide_8%_unit": {
+    "$type": "dimension",
+    "$value": "42px"
+  },
+  "guide_4%_unit": {
+    "$type": "dimension",
+    "$value": "50px"
+  },
+  "card_padding": {
+    "$type": "dimension",
+    "$value": "{spacing-sm_16x2}"
+  },
+  "card_sheet_padding": {
+    "$type": "dimension",
+    "$value": "{spacing-md_24x2}"
+  },
+  "show_only_on_1060o": {
+    "$type": "boolean",
+    "$value": false
+  },
+  "content_hspacing": {
+    "$type": "dimension",
+    "$value": "{spacing-md_24x2}"
+  },
+  "section_vspacing": {
+    "$type": "dimension",
+    "$value": "{spacing-xl_48x2}"
+  },
+  "section_vspacing_sm": {
+    "$type": "dimension",
+    "$value": "{spacing-lg_32x2}"
+  },
+  "content_vspacing": {
+    "$type": "dimension",
+    "$value": "{spacing-md_24x2}"
+  },
+  "content_vspacing_sm": {
+    "$type": "dimension",
+    "$value": "{spacing-md_24x2}"
+  },
+  "list_vspacing": {
+    "$type": "dimension",
+    "$value": "{spacing-xs_8x2}"
+  },
+  "content_sm_max_width": {
+    "$type": "dimension",
+    "$value": "600px"
+  },
+  "content_md_max_width": {
+    "$type": "dimension",
+    "$value": "600px"
+  },
+  "content_2cols_max_width": {
+    "$type": "dimension",
+    "$value": "360px"
+  },
+  "content_3cols_min_width": {
+    "$type": "dimension",
+    "$value": "240px"
+  },
+  "content_2cols_padding": {
+    "$type": "dimension",
+    "$value": "48px"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "icon_size+8": {
+    "$type": "dimension",
+    "$value": "40px"
+  },
+  "icon_size+16": {
+    "$type": "dimension",
+    "$value": "56px"
+  },
+  "icon_selector": {
+    "$type": "dimension",
+    "$value": "80px"
+  },
+  "icon_selector_txt": {
+    "$type": "dimension",
+    "$value": "60px"
+  },
+  "icon_selector_icon_w": {
+    "$type": "dimension",
+    "$value": "28px"
+  },
+  "icon_selector_icon_h": {
+    "$type": "dimension",
+    "$value": "22px"
+  }
+}

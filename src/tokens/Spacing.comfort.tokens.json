@@ -1,0 +1,68 @@
+{
+  "spacing-none": {
+    "$type": "dimension",
+    "$value": "{0}"
+  },
+  "spacing-3xs_2x2": {
+    "$type": "dimension",
+    "$value": "{4}"
+  },
+  "spacing-_2xs_4x2": {
+    "$type": "dimension",
+    "$value": "{8}"
+  },
+  "spacing-xs_8x2": {
+    "$type": "dimension",
+    "$value": "{16}"
+  },
+  "spacing-sm_16x2": {
+    "$type": "dimension",
+    "$value": "{32}"
+  },
+  "spacing-md_24x2": {
+    "$type": "dimension",
+    "$value": "{48}"
+  },
+  "spacing-lg_32x2": {
+    "$type": "dimension",
+    "$value": "{64}"
+  },
+  "spacing-xl_48x2": {
+    "$type": "dimension",
+    "$value": "{96}"
+  },
+  "spacing-2xl_64x2": {
+    "$type": "dimension",
+    "$value": "{128}"
+  },
+  "spacing-3xl_96x2": {
+    "$type": "dimension",
+    "$value": "{160}"
+  },
+  "spacing-4xl_128x2": {
+    "$type": "dimension",
+    "$value": "{256}"
+  },
+  "spacing-test": {
+    "$type": "dimension",
+    "$value": "256px"
+  },
+  "btn": {
+    "btn-padding-fill": {
+      "$type": "dimension",
+      "$value": "{32}"
+    },
+    "btn-padding-fill-icon": {
+      "$type": "dimension",
+      "$value": "{32}"
+    },
+    "btn-vpadding": {
+      "$type": "dimension",
+      "$value": "20px"
+    },
+    "btn-side_padding": {
+      "$type": "dimension",
+      "$value": "{16}"
+    }
+  }
+}

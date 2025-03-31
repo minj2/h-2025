@@ -1,0 +1,22 @@
+{
+  "l-spacing-variable": {
+    "$type": "dimension",
+    "$value": "2.5px"
+  },
+  "l-spacing-variable-tight": {
+    "$type": "dimension",
+    "$value": "1.5px"
+  },
+  "l-spacing-variable-relax": {
+    "$type": "dimension",
+    "$value": "3px"
+  },
+  "l-spacing-variable-wide": {
+    "$type": "dimension",
+    "$value": "8px"
+  },
+  "l-spacing-variable-comfort": {
+    "$type": "dimension",
+    "$value": "4.5px"
+  }
+}

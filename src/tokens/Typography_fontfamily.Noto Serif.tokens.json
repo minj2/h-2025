@@ -1,0 +1,14 @@
+{
+  "font-family": {
+    "$type": "string",
+    "$value": "Noto Serif KR"
+  },
+  "font-family_body": {
+    "$type": "string",
+    "$value": "Pretendard Variable"
+  },
+  "Label": {
+    "$type": "boolean",
+    "$value": true
+  }
+}

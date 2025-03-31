@@ -1,0 +1,124 @@
+{
+  "Schemes": {
+    "Primary": {
+      "$type": "color",
+      "$value": "#cfbdfe"
+    },
+    "Surface_Tint": {
+      "$type": "color",
+      "$value": "#cfbdfe"
+    },
+    "On_Primary": {
+      "$type": "color",
+      "$value": "#36275d"
+    },
+    "Primary_Container": {
+      "$type": "color",
+      "$value": "#4c3d75"
+    },
+    "On_Primary_Container": {
+      "$type": "color",
+      "$value": "#e9ddff"
+    },
+    "Secondary": {
+      "$type": "color",
+      "$value": "#cbc2db"
+    },
+    "On_Secondary": {
+      "$type": "color",
+      "$value": "#332d41"
+    },
+    "Secondary_Container": {
+      "$type": "color",
+      "$value": "#4a4458"
+    },
+    "On_Secondary_Container": {
+      "$type": "color",
+      "$value": "#e8def8"
+    },
+    "Tertiary": {
+      "$type": "color",
+      "$value": "#efb8c8"
+    },
+    "On_Tertiary": {
+      "$type": "color",
+      "$value": "#4a2532"
+    },
+    "Tertiary_Container": {
+      "$type": "color",
+      "$value": "#633b48"
+    },
+    "On_Tertiary_Container": {
+      "$type": "color",
+      "$value": "#ffd9e3"
+    },
+    "Error": {
+      "$type": "color",
+      "$value": "#ffb4ab"
+    },
+    "On_Error": {
+      "$type": "color",
+      "$value": "#690005"
+    },
+    "Error_Container": {
+      "$type": "color",
+      "$value": "#93000a"
+    },
+    "On_Error_Container": {
+      "$type": "color",
+      "$value": "#ffdad6"
+    },
+    "Background": {
+      "$type": "color",
+      "$value": "#141218"
+    },
+    "On_Background": {
+      "$type": "color",
+      "$value": "#e6e0e9"
+    },
+    "Surface": {
+      "$type": "color",
+      "$value": "#141218"
+    },
+    "On_Surface": {
+      "$type": "color",
+      "$value": "#e6e0e9"
+    },
+    "Surface_Variant": {
+      "$type": "color",
+      "$value": "#49454e"
+    },
+    "On_Surface_Variant": {
+      "$type": "color",
+      "$value": "#cac4cf"
+    },
+    "Outline": {
+      "$type": "color",
+      "$value": "#948f99"
+    },
+    "Outline_Variant": {
+      "$type": "color",
+      "$value": "#49454e"
+    },
+    "Shadow": {
+      "$type": "color",
+      "$value": "#000000"
+    },
+    "Scrim": {
+      "$type": "color",
+      "$value": "#000000"
+    },
+    "Inverse_Surface": {
+      "$type": "color",
+      "$value": "#e6e0e9"
+    },
+    "Inverse_On_Surface": {
+      "$type": "color",
+      "$value": "#322f35"
+    }
+  },
+  "Label": {
+    "$type": "boolean",
+    "$value": true
+  }
+}

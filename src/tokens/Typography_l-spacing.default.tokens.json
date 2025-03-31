@@ -1,0 +1,26 @@
+{
+  "l-spacing-variable": {
+    "$type": "dimension",
+    "$value": "0px"
+  },
+  "l-spacing-variable-tight": {
+    "$type": "dimension",
+    "$value": "-0.1px"
+  },
+  "l-spacing-variable-relax": {
+    "$type": "dimension",
+    "$value": "0.5px"
+  },
+  "l-spacing-variable-wide": {
+    "$type": "dimension",
+    "$value": "5.5px"
+  },
+  "l-spacing-variable-comfort": {
+    "$type": "dimension",
+    "$value": "2px"
+  },
+  "blue_gray": {
+    "$type": "color",
+    "$value": "#6d7d9e"
+  }
+}
